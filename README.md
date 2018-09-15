@@ -1,6 +1,8 @@
 # FTC Team 11589 2018-2019 Season Robot Controller
 This repository contains the archived Robot Controller source code for team 11589, Fusion, created for and used during the 2018-2019 FIRST Tech Challenge season. The sources contained here are a fork of [the FIRST Tech Challenge Robot Controller base app](https://github.com/ftctechnh/ftc_app) at version 4.0, modified to support the controlling scheme needed for the robot.
 
+The code contained within this repository should only be changed by members of FTC team 11589.
+
 ## Welcome!
 This GitHub repository contains the source code that is used to build an Android app to control a *FIRST* Tech Challenge competition robot.  To use this SDK, download/clone the entire project to your local computer.
 
